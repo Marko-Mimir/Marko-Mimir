@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Marko-Mimir
+- 👋 Hi, I’m Restome
 - 👀 I’m interested in drawing
 - 🌱 I’m currently learning gdscript
-- 💞️ I’m looking to collaborate on nothing currently
-- 📫 How to reach me n/a
-- Current project: mimir rpg!
+- 💞️ I’m looking to collaborate on godot projects, and web-focused design.
+- 📫 How to reach me: Admin@restine.dev
+- Current project: Project Live! A 2D Rougelike
 
 <!---
 Marko-Mimir/Marko-Mimir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
