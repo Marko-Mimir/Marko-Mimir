@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Restome
+- 👋 Hi, I’m Restine or Marko!
 - 👀 I’m interested in drawing
 - 🌱 I’m currently learning gdscript
 - 💞️ I’m looking to collaborate on godot projects, and web-focused design.
